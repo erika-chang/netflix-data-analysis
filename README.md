@@ -2,6 +2,8 @@
 
 Exploratory data analysis using Pandas on a dataset of Netflix titles.
 
+📊 [Explore the interactive dashboard on Tableau Public](https://public.tableau.com/views/NetflixDataAnalysis_17484393719870/NetflixDataAnalysis?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 🔍 Objective
 To review key data manipulation concepts with Pandas through a simple and visually engaging project.
 
