@@ -31,6 +31,16 @@ netflix-data-analysis/
 ├── requirements.txt
 └── .gitignore
 ```
+## 📊 Main Findings
+- Movies dominate Netflix's catalog, but TV Shows represent a significant portion.
+
+- The top countries producing content are the United States, India, and the United Kingdom.
+
+- The number of titles added to the platform increased steadily until 2019, with a slight decline in the following years.
+
+- The most common genres are Drama, Comedy, and Documentaries.
+
+- Directors such as Rajiv Chilaka appear frequently, indicating recurring partnerships with Netflix.
 
 ## ✍️ Author
 [Erika](https://www.linkedin.com/in/ecdazevedo)
